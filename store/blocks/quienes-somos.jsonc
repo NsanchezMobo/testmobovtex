@@ -34,7 +34,7 @@
     },
     "rich-text#about-content": {
       "props": {
-        "text": "Esta es una prueba para saber si el site editor se cambia o respeta el codigo, deberia mantener el titulo de quienesomos",
+        "text": "Esta es una prueba para saber si el site editor se cambia o respeta el codigo, deberia mantener el titulo de quienesomos prueba ahora del commit sin push",
         "blockClass": "text-content"
       }
     },
